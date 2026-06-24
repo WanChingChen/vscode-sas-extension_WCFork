@@ -15,3 +15,7 @@ To install the SAS extension:
 **NOTE:**
 For macOS users, some environments may require additional certificate installation steps before connecting successfully to a SAS Viya server.
 Please refer to the [FAQ](https://sassoftware.github.io/vscode-sas-extension/faq?_highlight=mac&_highlight=osthhy-did-i-get-the-unable-to-parse-decrypted-passworderror) for details.
+
+**注意：**
+對於 macOS 使用者，某些環境在成功連接到 SAS Viya 伺服器之前，可能需要額外的憑證安裝步驟。
+詳情請參閱[常見問題集](https://sassoftware.github.io/vscode-sas-extension/faq?_highlight=mac&_highlight=osthhy-did-i-get-the-unable-to-parse-decrypted-passworderror)。
